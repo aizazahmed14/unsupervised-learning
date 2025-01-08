@@ -51,9 +51,9 @@ Perform market basket analysis using the Apriori algorithm.
 Generate and interpret association rules with confidence and lift metrics.
 
 ## 📝 Resources
-Python Documentation (https://docs.python.org/3/)
-MLxtend Documentation [https://rasbt.github.io/mlxtend/]
+[Python Documentation](https://docs.python.org/3/)
+[MLxtend Documentation](https://rasbt.github.io/mlxtend/)
 
 ## 💬 Connect with Us
 Feel free to open an issue if you have any questions or suggestions.
-Watch the full tutorial on YouTube and share your feedback!
+Watch the [full tutorial](https://youtu.be/kpQj-AUMVdo) on YouTube and share your feedback!
